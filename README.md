@@ -1,4 +1,4 @@
-# sorafune 夜間光データからの土地価格予測  
+# solafune 夜間光データからの土地価格予測  
 
 ## フォルダ構成  
 * input  
@@ -21,7 +21,7 @@
 
 
 ## 結果  
-Public：22位, Private：位
+Public：22位, Private：15位
 
 ## 特徴量  
 * get_area_feature："SumLight"] / "MeanLight"
